@@ -1,9 +1,9 @@
 {
   "envId": "{{env.ENV_ID}}",
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
-  "version": "2.0",
+  "version": "2.1",
   "framework": {
-    "name": "daxigua",
+    "name": "合成李二狗",
     "plugins": {
       "client": {
         "use": "@cloudbase/framework-plugin-website",
