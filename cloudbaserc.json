@@ -3,7 +3,7 @@
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
   "version": "2.1",
   "framework": {
-    "name": "合成李二狗",
+    "name": "liergou",
     "plugins": {
       "client": {
         "use": "@cloudbase/framework-plugin-website",
